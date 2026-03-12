@@ -1,0 +1,21 @@
+body{
+text-align: center;
+font-family: Arial;
+background-color: black;
+color: white;
+}
+
+h1{
+font-size: 40px;
+}
+
+img{
+width: 300px;
+border-radius: 15px;
+cursor: pointer;
+transition: transform 0.3s;
+}
+
+img:hover{
+transform: scale(1.1);
+}
